@@ -1,5 +1,5 @@
 {
-  "name": "currency-formatter",
+  "name": "rupiah-currency-formatter",
   "version": "1.0.0",
   "description": "This package is for converting numbers into currency and vice versa",
   "main": "index.js",

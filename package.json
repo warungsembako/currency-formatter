@@ -1,0 +1,15 @@
+{
+  "name": "currency-formatter",
+  "version": "1.0.0",
+  "description": "This package is for converting numbers into currency and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "rupiah"
+  ],
+  "author": "",
+  "license": "ISC"
+}
